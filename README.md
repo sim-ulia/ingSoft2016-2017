@@ -4,6 +4,6 @@
 Software Engineering 2
 ----------------------
 
-> - Simone Bruzzechesse 
+- Simone Bruzzechesse 
 - Luca Franceschetti 
 - Gian Giacomo Gatti
